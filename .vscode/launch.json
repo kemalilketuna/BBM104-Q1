@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": ["i2.txt", "output.txt"]
+        },
+        {
+            "type": "java",
+            "name": "DiceGame",
+            "request": "launch",
+            "mainClass": "DiceGame",
+            "projectName": "BBM104 Q1_29bb0a52"
+        }
+    ]
+}
